@@ -1,1 +1,1 @@
-# mai-emergent
+# mAI by Emergent.sh
